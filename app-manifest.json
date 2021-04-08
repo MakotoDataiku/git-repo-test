@@ -27,5 +27,7 @@
   "label": "Possible Heart Attack?",
   "shortDesc": "The template *Possible Heart Attack?* was created by Makoto Miyazaki on Apr 08th 2021",
   "tags": [],
+  "imgPattern": 2,
+  "showInitials": false,
   "instantiationPermission": "USE_APP_MASTER_PERMISSIONS"
 }
