@@ -22,16 +22,9 @@ df_new = df.iloc[0:1, :]
 df_new2 = df.iloc[1:2, :]
 
 # -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
-py_recipe_output = dataiku.Dataset("df_new")
+py_recipe_output = dataiku.Dataset("new_df")
 py_recipe_output.write_with_schema(df_new)
 
 # -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
-py_recipe_output = dataiku.Dataset("df_new2")
+py_recipe_output = dataiku.Dataset("new_df2")
 py_recipe_output.write_with_schema(df_new2)
-
-# -------------------------------------------------------------------------------- NOTEBOOK-CELL: CODE
-# Recipe outputs
-new_df = dataiku.Dataset("new_df")
-new_df.write_with_schema(pandas_dataframe)
-new_df2 = dataiku.Dataset("new_df2")
-new_df2.write_with_schema(pandas_dataframe)
