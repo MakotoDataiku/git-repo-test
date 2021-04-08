@@ -58,11 +58,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1617905494793
+    "lastModifiedOn": 1617906500271
   },
   "creationTag": {
     "versionNumber": 0,
@@ -76,7 +76,7 @@
     "folderSmartId": "hn3X6qWg",
     "notReadyIfEmpty": false,
     "filesSelectionRules": {
-      "mode": "EXPLICIT_SELECT_FILES",
+      "mode": "ALL",
       "excludeRules": [],
       "includeRules": [],
       "explicitFiles": [
