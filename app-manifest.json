@@ -11,19 +11,46 @@
     "exportAllInputManagedFolders": false,
     "exportInsightsData": false,
     "includedDatasetsData": [],
-    "includedSavedModels": [],
+    "includedSavedModels": [
+      {
+        "id": "H7XuptZh",
+        "name": "Prediction (LOGISTIC_REGRESSION) on heart"
+      }
+    ],
     "includedManagedFolders": [],
     "includedModelEvaluationStores": [],
     "exportGitRepository": false
   },
   "instanceFeatures": {
-    "showFlowNavLink": false,
+    "showFlowNavLink": true,
     "showLabNavLink": false,
     "showCodeNavLink": false,
     "showVersionControlFeatures": false
   },
   "useAppHomepage": true,
-  "homepageSections": [],
+  "homepageSections": [
+    {
+      "sectionTitle": "Possibly Heart Attack?",
+      "tiles": [
+        {
+          "folderId": "hn3X6qWg",
+          "behavior": "INLINE_UPLOAD",
+          "type": "MANAGED_FOLDER_ADD_FILE",
+          "prompt": "Upload a new patient data"
+        },
+        {
+          "scenarioId": "predict_heart_attack",
+          "type": "SCENARIO_RUN",
+          "prompt": "Run scenario to predict"
+        },
+        {
+          "dashboardId": "r1K3ukR",
+          "type": "DASHBOARD_LINK",
+          "prompt": "View result"
+        }
+      ]
+    }
+  ],
   "label": "Possible Heart Attack?",
   "shortDesc": "The template *Possible Heart Attack?* was created by Makoto Miyazaki on Apr 08th 2021",
   "tags": [],
