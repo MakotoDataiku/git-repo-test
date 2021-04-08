@@ -59,11 +59,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1617905358102
+    "lastModifiedOn": 1617905398912
   },
   "creationTag": {
     "versionNumber": 0,
@@ -85,8 +85,65 @@
     }
   },
   "schema": {
-    "columns": [],
-    "userModified": true
+    "columns": [
+      {
+        "name": "age",
+        "type": "bigint"
+      },
+      {
+        "name": "sex",
+        "type": "bigint"
+      },
+      {
+        "name": "cp",
+        "type": "bigint"
+      },
+      {
+        "name": "trestbps",
+        "type": "bigint"
+      },
+      {
+        "name": "chol",
+        "type": "bigint"
+      },
+      {
+        "name": "fbs",
+        "type": "bigint"
+      },
+      {
+        "name": "restecg",
+        "type": "bigint"
+      },
+      {
+        "name": "thalach",
+        "type": "bigint"
+      },
+      {
+        "name": "exang",
+        "type": "bigint"
+      },
+      {
+        "name": "oldpeak",
+        "type": "double"
+      },
+      {
+        "name": "slope",
+        "type": "bigint"
+      },
+      {
+        "name": "ca",
+        "type": "bigint"
+      },
+      {
+        "name": "thal",
+        "type": "bigint"
+      },
+      {
+        "name": "target",
+        "type": "bigint"
+      }
+    ],
+    "userModified": false
   },
   "dkuProperties": [],
   "metrics": {
