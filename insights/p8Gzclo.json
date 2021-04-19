@@ -1,0 +1,31 @@
+{
+  "type": "metrics",
+  "params": {
+    "objectSmartId": "new_patient_scored",
+    "objectType": "DATASET",
+    "metricId": "col_stats:MAX:proba_1"
+  },
+  "owner": "admin",
+  "listed": false,
+  "name": "Max of proba_1 on new_patient_scored",
+  "dashboardCreationId": "r1K3ukR",
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1618838181919
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1618838181919
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
