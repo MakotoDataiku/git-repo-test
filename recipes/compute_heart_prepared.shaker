@@ -26,7 +26,10 @@
     "autoRefreshSample": false
   },
   "explorationFilters": [],
-  "exploreUIParams": {},
+  "origin": "PREPARE_RECIPE",
+  "exploreUIParams": {
+    "autoRefresh": true
+  },
   "steps": [],
   "maxProcessedMemTableBytes": -1,
   "previewMode": "ALL_ROWS",
@@ -35,7 +38,22 @@
     "autoRefreshSample": false
   },
   "analysisColumnData": {},
-  "columnWidthsByName": {},
+  "columnWidthsByName": {
+    "exang": 100,
+    "sex": 100,
+    "thal": 100,
+    "chol": 100,
+    "slope": 100,
+    "cp": 100,
+    "trestbps": 100,
+    "target": 100,
+    "oldpeak": 100,
+    "thalach": 100,
+    "fbs": 100,
+    "age": 100,
+    "ca": 100,
+    "restecg": 100
+  },
   "sorting": [],
   "globalSearchQuery": "",
   "coloring": {
