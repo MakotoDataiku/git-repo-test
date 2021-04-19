@@ -22,7 +22,7 @@
     "exportGitRepository": false
   },
   "instanceFeatures": {
-    "showFlowNavLink": false,
+    "showFlowNavLink": true,
     "showLabNavLink": false,
     "showCodeNavLink": false,
     "showVersionControlFeatures": false
