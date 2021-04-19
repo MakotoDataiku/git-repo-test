@@ -52,11 +52,11 @@
   "name": "Possible Heart Attack?\u0027s default dashboard",
   "showGrid": true,
   "versionTag": {
-    "versionNumber": 7,
+    "versionNumber": 8,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1618833955018
+    "lastModifiedOn": 1618835716179
   },
   "creationTag": {
     "versionNumber": 0,
