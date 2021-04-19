@@ -141,8 +141,7 @@
       }
     }
   },
-  "name": "Possible Heart Attack?",
-  "projectStatus": "Sandbox",
+  "name": "Possible Heart Attack? (change-flow)",
   "imgPattern": 6,
   "showInitials": false,
   "metrics": {
@@ -200,11 +199,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 10,
+    "versionNumber": 12,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1618840420270
+    "lastModifiedOn": 1618840538900
   },
   "creationTag": {
     "versionNumber": 0,
@@ -213,8 +212,10 @@
     },
     "lastModifiedOn": 1617904587038
   },
-  "shortDesc": "The project *Possible Heart Attack?* was created by Makoto Miyazaki on Apr 08th 2021",
-  "tags": [],
+  "shortDesc": "The project *Possible Heart Attack?* was created by Makoto Miyazaki on Apr 08th 2021\nThe project *POSSIBLE_HEART_ATTACK_CHANGE_FLOW* was copied from *POSSIBLEHEARTATTACK* by Makoto Miyazaki on Apr 19th 2021",
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
