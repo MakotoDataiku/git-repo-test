@@ -13,7 +13,7 @@
     "includedDatasetsData": [],
     "includedSavedModels": [
       {
-        "id": "H7XuptZh",
+        "id": "5bqRjtdX",
         "name": "Prediction (LOGISTIC_REGRESSION) on heart"
       }
     ],
@@ -33,7 +33,7 @@
       "sectionTitle": "Possibly Heart Attack?",
       "tiles": [
         {
-          "folderId": "hn3X6qWg",
+          "folderId": "qUulRvOj",
           "behavior": "INLINE_UPLOAD",
           "type": "MANAGED_FOLDER_ADD_FILE",
           "prompt": "Upload a new patient data"
