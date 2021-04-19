@@ -1,0 +1,25 @@
+[
+  {
+    "execSQLLike": false,
+    "localDatasets": [],
+    "projectPrivileges": {
+      "admin": false,
+      "readProjectContent": false,
+      "writeProjectContent": false,
+      "exportDatasetsData": false,
+      "readDashboards": false,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
+    },
+    "onBehalf": "Sf6G6hz",
+    "id": "SF27r0ywoCTuvSr2",
+    "key": "9fwg55f1UEDVftTLBcz67KA2aqw3PF0k",
+    "label": "Key for Web app test(Sf6G6hz)",
+    "createdOn": 1618837718601
+  }
+]
