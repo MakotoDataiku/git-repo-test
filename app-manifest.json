@@ -13,7 +13,7 @@
     "includedDatasetsData": [],
     "includedSavedModels": [
       {
-        "id": "5bqRjtdX",
+        "id": "qlArEqb7",
         "name": "Prediction (LOGISTIC_REGRESSION) on heart"
       }
     ],
@@ -22,7 +22,7 @@
     "exportGitRepository": false
   },
   "instanceFeatures": {
-    "showFlowNavLink": true,
+    "showFlowNavLink": false,
     "showLabNavLink": false,
     "showCodeNavLink": false,
     "showVersionControlFeatures": false
@@ -33,20 +33,20 @@
       "sectionTitle": "Possibly Heart Attack?",
       "tiles": [
         {
-          "folderId": "qUulRvOj",
+          "folderId": "m4QvtW8p",
           "behavior": "INLINE_UPLOAD",
           "type": "MANAGED_FOLDER_ADD_FILE",
-          "prompt": "Upload a new patient data"
+          "prompt": "upload new patient data"
         },
         {
-          "scenarioId": "predict_heart_attack",
+          "scenarioId": "run_flow",
           "type": "SCENARIO_RUN",
-          "prompt": "Run scenario to predict"
+          "prompt": "make prediction!"
         },
         {
           "dashboardId": "r1K3ukR",
           "type": "DASHBOARD_LINK",
-          "prompt": "View result"
+          "prompt": "see the prediction result!"
         }
       ]
     }
